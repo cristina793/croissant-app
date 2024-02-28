@@ -1,1 +1,9 @@
-body{background-color:blanchedalmond;}
+body{
+    margin-top: 50px;
+    background-color:blanchedalmond;}
+.croissant{text-align: center;}
+.about-croissants{text-align: center;}
+a{color: green;
+    margin-right: 20px;
+}
+footer{text-align: center;}
